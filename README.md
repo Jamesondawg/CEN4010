@@ -2,7 +2,7 @@
 
 ## Index
 
-# Testing
+# Testing 2
 
 - [Frameworks](https://github.com/willysyztem/CEN4010/tree/profile-management#frameworks)
 - [Contributing](https://github.com/willysyztem/CEN4010/tree/profile-management#contributing)
